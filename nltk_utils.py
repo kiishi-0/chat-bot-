@@ -22,6 +22,6 @@ a = "Do you take credit cards?"
 # print(a)
 
 
-words = ["Organizer", "organizes", "organizing"]
-stemmed_words = [stem(w) for w in words]
-print(stemmed_words)
+# words = ["Organizer", "organizes", "organizing"]
+# stemmed_words = [stem(w) for w in words]
+# print(stemmed_words)
